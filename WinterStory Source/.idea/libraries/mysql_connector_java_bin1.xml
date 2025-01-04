@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-bin1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WinterSource V83/tools/MapleCodeCouponGenerator/lib/mysql-connector-java-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
