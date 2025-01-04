@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="mysql-connector-java-bin12">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/WinterSource V83/tools/MapleArrowFetcher/lib/mysql-connector-java-bin.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

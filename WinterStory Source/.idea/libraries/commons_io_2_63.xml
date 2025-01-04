@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="commons-io-2.63">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/WinterSource V83/tools/MapleBossHpBarFetcher/lib/commons-io-2.6.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
